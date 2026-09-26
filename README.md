@@ -1,6 +1,6 @@
 # Hi, I'm Richa 
 
-💻 Computer Engineering Student  
+💻 Information Technology Student  
 🚀 Full Stack Developer | AI/ML Enthusiast  
 📍 Mumbai, India  
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-Computer Engineering diploma student with hands-on experience in Full Stack Development, Artificial Intelligence, Machine Learning, and Cybersecurity fundamentals.
+Computer Engineering ex diploma student, currently in Information technology second year with hands-on experience in Full Stack Development, Artificial Intelligence, Machine Learning, and Cybersecurity fundamentals.
 
 Completed a 12-week internship developing web and mobile applications using React, Node.js, MongoDB, Firebase and React Native.
 
@@ -30,7 +30,7 @@ HTML • CSS • React.js • Node.js • Express.js
 React Native  
 
 ### Databases
-MongoDB • MySQL • Firebase  
+MongoDB • Firebase  
 
 ### Tools
 Git • GitHub • Figma • Tailwind CSS • Linux  
